@@ -1,4 +1,4 @@
-![VIE-to-AMS-logo](Images/VIE-to-AMS-logo.png)
+![V2A-logo](Images/V2A-logo.png)
 
 # Introduction: PANDA goes to Amsterdam 
 
