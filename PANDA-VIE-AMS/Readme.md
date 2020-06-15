@@ -1,3 +1,5 @@
+![VIE-to-AMS-logo](Images/VIE-to-AMS-logo.png)
+
 # Introduction: PANDA goes to Amsterdam 
 
 This repository contains the codes developed for setting up a PANDA motion compensation pipeline for AMS datasets. 
